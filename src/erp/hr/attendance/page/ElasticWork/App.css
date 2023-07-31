@@ -1,0 +1,35 @@
+.Calendar {
+  position: absolute;
+  top: 280px; /* 값이 커질수록 달력이 밑으로 감*/
+  right: 800px; /*값이 커질수록 달력이 왼쪽으로감*/
+  background-color: white; /* 달력 백그라운드컬러*/
+}
+.DayAttendance {
+  position: relative;
+  top: 50px; /* 값이 커질수록 달력이 밑으로 감*/
+  right: 00px; /*값이 커질수록  왼쪽으로감*/
+  height: 350px;
+}
+.tab1 {
+  position: absolute;
+  top: 200px;
+  right: 950px;
+}
+
+.tab2 {
+  position: absolute;
+  top: 200px;
+  right: 300px;
+}
+.Clock {
+  height: 1px;
+  position: relative;
+  left: 160px;
+  font-size: 30px;
+  /*border:solid 1px;
+        background-color: #61dafb;*/
+}
+.ag-header-cell-label {
+  justify-content: center;
+}
+ 

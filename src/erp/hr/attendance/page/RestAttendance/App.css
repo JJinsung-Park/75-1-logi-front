@@ -1,0 +1,61 @@
+.main {
+  position: absolute;
+  top: -1000px; /* 값이 커질수록 밑으로 감*/
+  left: 700px;
+  font-size: 50px;
+}
+
+.head {
+  position: absolute;
+  top: -800px; /* 값이 커질수록 밑으로 감*/
+  left: -200px;
+  font-size: 50px;
+}
+
+.text1 {
+  /* 근태외구분 값이 커질수록 밑으로 감*/
+  position: absolute;
+  top: -600px; /* 값이 커질수록 밑으로 감*/
+  left: -186px;
+}
+
+.text2 {
+  position: absolute;
+  top: -500px; /* 값이 커질수록 밑으로 감*/
+  left: -700px;
+  height: 25px; /* Equals maximum image height */
+  line-height: 25px;
+  width: 170px;
+  border: 1px solid red;
+
+  text-align: center;
+  margin: 1em 0;
+}
+
+.RegisterButton {
+  position: absolute;
+  top: 800px; /* 값이 커질수록 밑으로 감*/
+  left: 730px; /*값이 커질수록  왼쪽으로감*/
+}
+
+.RegisterCancel {
+  position: absolute;
+  top: 800px; /* 값이 커질수록 밑으로 감*/
+  left: 850px; /*값이 커질수록  왼쪽으로감*/
+}
+
+.MaxWidthDialog {
+  position: absolute;
+  top: 800px; /* 값이 커질수록 밑으로 감*/
+  left: 850px; /*값이 커질수록  왼쪽으로감*/
+}
+
+.d1 {
+  border: solid;
+}
+
+.bt {
+  position: absolute;
+  top: -250px; /* 값이 커질수록 밑으로 감*/
+  left: -1700px;
+}

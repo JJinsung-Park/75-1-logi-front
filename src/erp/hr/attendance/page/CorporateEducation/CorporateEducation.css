@@ -1,0 +1,41 @@
+.main{
+  display: flex;
+  padding: 10px;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.left{ 
+ display: flex;
+  flex:1;
+  justify-content: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 1%;
+}
+.right{
+ display: flex;
+  flex:2;
+  justify-content: center;
+  padding-bottom: 5%;
+  padding-right: 3%;
+}
+
+ .gridDiv{
+   width: 100%;
+   height: 530px;
+   justify-content: center;
+ }
+
+ .ag-header-cell-label {
+   justify-content: center;
+ }
+
+ .grid-cell-centered {
+    text-align: center;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
